@@ -1,0 +1,6 @@
+me\terrornator\collectorstealer\items\VoucherItem.class
+me\terrornator\collectorstealer\util\StringUtil.class
+me\terrornator\collectorstealer\listener\ClaimVoucherListener.class
+me\terrornator\collectorstealer\listener\CollectorExplodeListener.class
+me\terrornator\collectorstealer\CollectorStealer.class
+me\terrornator\collectorstealer\util\ItemBuilder.class

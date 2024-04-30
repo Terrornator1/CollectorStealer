@@ -1,0 +1,7 @@
+voucher:
+  material: PAPER
+  name: "Voucher"
+  lore:
+    - " "
+    - "Contains %money% and %tnt%"
+    - " "

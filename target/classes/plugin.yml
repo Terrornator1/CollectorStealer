@@ -1,0 +1,7 @@
+name: CollectorStealer
+version: '1.0'
+main: me.terrornator.collectorstealer.CollectorStealer
+depend:
+  - FactionsKore
+  - Factions
+  - NBTAPI
